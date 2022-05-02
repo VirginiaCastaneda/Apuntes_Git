@@ -8,3 +8,15 @@
 6. Dar enter
 7. Esc
 8. :wq salir del editor
+
+## otro
+```
+For Vi or Vim
+If you are using vi or vim, to manage to get out, you’ll have to do :
+
+Press “i” (i for insert)
+Write your merge message
+Press “esc” (escape)
+Write “:wq” (write & quit)
+Then press enter
+```
